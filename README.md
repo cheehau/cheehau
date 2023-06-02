@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm Chee Hau! 👋
 
-<!--
-**cheehau/cheehau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🌱 I'm passionate about optimizing business processes and creating smooth workflows.
+- 💡 I believe in designing systems that consider human behavior and make user experiences intuitive and efficient.
+- 📚 I have a strong appetite for learning and enjoy sharing my knowledge with others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Programming languages: PHP, JS, CSS, HTML
+- Frameworks and libraries: Laravel, NextJS
+
+## Connect with Me
+
+I'm always eager to connect with fellow developers and collaborate on exciting projects. You can reach out to me via:
+
+- Website: [cheehau.dev](https://cheehau.dev)
+
+Let's make the world a better place!
+
