@@ -16,7 +16,7 @@
 I'm always eager to connect with fellow developers and collaborate on exciting projects. You can reach out to me or support me via:
 
 - Website: [cheehau.dev](https://cheehau.dev)
-- Patreon: [cheehau.dev](patreon.com/user?u=95722521)
+- Patreon: [cheehau.dev](https://patreon.com/user?u=95722521)
 
 Let's make the world a better place!
 
