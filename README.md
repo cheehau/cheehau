@@ -15,7 +15,7 @@
 
 I'm always eager to connect with fellow developers and collaborate on exciting projects. You can reach out to me or support me via:
 
-- Github Sponsor: [cheehau/cheehau]
+- Github Sponsor: [cheehau/cheehau](https://github.com/sponsors/cheehau)
 - Website: [cheehau.dev](https://cheehau.dev)
 - Patreon: [cheehau.dev](https://patreon.com/user?u=95722521)
 
